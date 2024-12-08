@@ -1,6 +1,6 @@
 # Employee Bonus Calculator System
 
-This project calculates monthly bonuses for an insurance company's call center employees based on performance metrics and employment categories. The system evaluates two types of bonuses:
+This project, written in **Python** calculates monthly bonuses for an insurance company's call center employees based on performance metrics and employment categories. The system evaluates two types of bonuses:
 
 1. **Salary Step Bonus**  
    - Fixed bonus amounts based on employment status (Full-time or Part-time) and performance thresholds (Efficiency Rate and Acceptance Rate).
