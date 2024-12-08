@@ -1,0 +1,5 @@
+from employee_data import employees
+mentors = [employee for employee in employees if employee['mentor']]
+
+for mentor in mentors:
+    print(f"{mentor["Name"]} is Mentor")
